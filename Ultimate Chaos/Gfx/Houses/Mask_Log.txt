@@ -1,0 +1,16 @@
+2001-05-29 - 18:17:50:  Mask\Sprite Creation Begun.
+
+2001-05-29 - 18:17:50:  Picture File Loaded:
+C:\WINDOWS\Skrivbord\Programmering\Eget\Ultimate Chaos\Gfx\Houses\01.bmp
+
+2001-05-29 - 18:17:50:  Mask Made an Copied to:
+C:\WINDOWS\Skrivbord\Programmering\Eget\Ultimate Chaos\Gfx\Houses\01_Mask.bmp
+
+2001-05-29 - 18:17:50:  Sprite Made an Copied to:
+C:\WINDOWS\Skrivbord\Programmering\Eget\Ultimate Chaos\Gfx\Houses\01_Sprite.bmp
+
+2001-05-29 - 18:17:50:  Text LOG Made and Copied to:
+C:\WINDOWS\Skrivbord\Programmering\Eget\Ultimate Chaos\Gfx\Houses\Mask_Log.txt
+
+2001-05-29 - 18:17:50:  Mask\Sprite Creation finished.
+
